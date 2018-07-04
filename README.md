@@ -1,2 +1,2 @@
 # Survey-Analysis-OLS-Regression
-The Project aims in understanding the Survey Results through dimentionality reduction technique and also develop an understanding of OLS regression on different datasets
+Consumer perceptions towards a brand can be built on various parameters depending upon the product. This project uses Factor Analysis to evaluate and identify the most significant attributes that contribute towards the consumer perception of the different cereal brands.
